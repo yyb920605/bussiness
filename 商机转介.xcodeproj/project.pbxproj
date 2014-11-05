@@ -1243,6 +1243,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC0A44241A09C1CA0078A3E3 /* libbaidumapapi.a in Frameworks */,
 				041C423618F63B5600391E69 /* CoreGraphics.framework in Frameworks */,
 				FC0A44841A09C3300078A3E3 /* Security.framework in Frameworks */,
 				041C43C818F665F600391E69 /* SystemConfiguration.framework in Frameworks */,
@@ -1279,7 +1280,6 @@
 				0427F4B719F9EE0700587151 /* ShareSDKiPhoneSimpleShareViewUI.framework in Frameworks */,
 				0427F48019F9EE0700587151 /* DouBanConnection.framework in Frameworks */,
 				041C43CA18F665FD00391E69 /* CFNetwork.framework in Frameworks */,
-				FC0A44241A09C1CA0078A3E3 /* libbaidumapapi.a in Frameworks */,
 				041C43C618F665E900391E69 /* MobileCoreServices.framework in Frameworks */,
 				0427F4A919F9EE0700587151 /* libTCWeiboSDK.a in Frameworks */,
 				0427F4AC19F9EE0700587151 /* ShareSDK.framework in Frameworks */,
@@ -2268,8 +2268,8 @@
 				04F1CCA919078C6A00E90921 /* 登陆注册 */,
 				04F1CCA819078C4400E90921 /* 商机管理 */,
 				043E19CD19178B240062B7C4 /* TLHomeViewController.h */,
-				FC0A447C1A09C2D20078A3E3 /* TLAppDelegate.h */,
 				FC0A44871A09C4350078A3E3 /* TLHomeViewController.m */,
+				FC0A447C1A09C2D20078A3E3 /* TLAppDelegate.h */,
 				FC0A447D1A09C2D20078A3E3 /* TLAppDelegate.m */,
 				0429EF89191A10CA001B8E78 /* TLChangePswViewController.h */,
 				0429EF8A191A10CA001B8E78 /* TLChangePswViewController.m */,
@@ -3283,10 +3283,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				ONLY_ACTIVE_ARCH = YES;
-				OTHER_LDFLAGS = (
-					"-force_load",
-					"/develop/hello-master/商机转介/libbaidumapapi.a",
-				);
+				OTHER_LDFLAGS = "";
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -3323,10 +3320,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				ONLY_ACTIVE_ARCH = NO;
-				OTHER_LDFLAGS = (
-					"-force_load",
-					"/develop/hello-master/商机转介/libbaidumapapi.a",
-				);
+				OTHER_LDFLAGS = "";
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;

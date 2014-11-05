@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CF049B8B-CA0E-4FDA-AB2C-EF958D3DBC5D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>商机转介</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D7C27F2F96123B36B53DE86F057998E5F030E871</key>
+		<string>https://github.com/yyb920605/bussiness.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>商机转介.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D7C27F2F96123B36B53DE86F057998E5F030E871</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yyb920605/bussiness.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D7C27F2F96123B36B53DE86F057998E5F030E871</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D7C27F2F96123B36B53DE86F057998E5F030E871</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bussiness</string>
+		</dict>
+	</array>
+</dict>
+</plist>
